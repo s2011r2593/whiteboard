@@ -1,0 +1,15 @@
+[package]
+authors = ["Sean Rhee <seanrhee2024@u.northwestern.edu>"]
+categories = ["mathematics"]
+description = "A naively impelemented math library(?)."
+edition = "2018"
+keywords = ["math"]
+license = "MIT"
+name = "whiteboard"
+readme = "README.md"
+repository = "https://github.com/s2011r2593/whiteboard/"
+version = "0.0.1"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
